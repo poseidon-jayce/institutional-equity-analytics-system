@@ -7,6 +7,8 @@ Institutional-grade Risk Engine &amp; Predictive Analytics platform for NIFTY 50
 This system is an end-to-end quantitative platform designed to ingest, store, and analyze 5 years of historical market data for the *NIFTY 50* index. It bridges *Enterprise Database Management (DBMS)* with *Stochastic Predictive Modeling (PA)*.
 ---
 
+live demo: https://huggingface.co/spaces/krishna-0722/equity-analytics
+
 ## 🛠 Technical Architecture
 1. *Extraction (ETL):* Automated Python pipeline utilizing yfinance to ingest ~60,000 records.
 2. *Persistence (DBMS):* *Oracle 21c RDBMS* utilizing a relational schema with Foreign Key constraints and indexing for time-series optimization.
