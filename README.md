@@ -22,5 +22,5 @@ This system is an end-to-end quantitative platform designed to ingest, store, an
 *   app.py: Dashboard Source Code.
 *   gs_project_phase1.ipynb: Original Research & Oracle development notebook.
 
-*Contact:* Krishna Nibe 
+*Contact:* Krishna Nibe (krishnanibe07@gmail.com)
 *Objective:* to build a high fidelity risk assessment and analytics system 
